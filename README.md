@@ -1,11 +1,11 @@
 # Line Tracking Robot Car
 ## Bill of Materials:
-Raspberry Pi and breadboard
-3V-6V DC 1:120 Gear Motor TT Motor (2x)
-L298n Dual H-Bridge Motor Driver
-3Pcs Infrared Obstacle Avoidance Sensor (2x)
-Batteries
-Wires
+- Raspberry Pi and breadboard
+- 3V-6V DC 1:120 Gear Motor TT Motor (2x)
+- L298n Dual H-Bridge Motor Driver
+- 3Pcs Infrared Obstacle Avoidance Sensor (2x)
+- Batteries
+- Wires
 
 ## Goal
 The overall goal of this project was to develop a lane tracing robot car. I built a car that would be able to follow a path that was created using black electrical tape. The car would use attached infrared sensors that wouldn't be able to detect the black tape. This way, the car would directly travel on the black tape as the sensors wouldn't perceive any obstacles in their way.
